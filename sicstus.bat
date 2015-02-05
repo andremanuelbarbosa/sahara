@@ -1,0 +1,1 @@
+"C:\Program Files\SICStus Prolog 3.9.1\bin\sicstus.exe" -l d:\Trab2\Release\sockets.pl --goal server(1111).
